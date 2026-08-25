@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prakashphiroda314.github.io/sbn/sitemap.xml
+Allow: /assets/
+Allow: /favicon.svg
+
+Sitemap: https://buildyouridentity3-maker.github.io/sbn/sitemap.xml
