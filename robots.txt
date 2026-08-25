@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prakashphiroda314.github.io/sbn/sitemap.xml
